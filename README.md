@@ -331,33 +331,51 @@ Alasan memilih tanda "/" sebagai mount point saat instalasi Linux sangat penting
 
 ## Jawab:
 
-1. ext4:
-  - Penerus dari ext3 dengan peningkatan performa dan fitur
-  - Mendukung volume dan file berukuran sangat besar
-  - Memiliki fitur journaling untuk mencegah kerusakan data
+1. ext4 (Fourth Extended File System):
+   ext4 ialah sistem berkas Linux yang lebih baru dan canggih daripada ext3.
+   Fitur : 
+     - Mendukung partisi hingga 1 Exabyte dan file hingga 16 Terabyte.
+     - Memiliki mekanisme journaling untuk melindungi data.
+     - Alokasi ruang yang efisien, mempercepat pemulihan data.
+     - Mendukung extents untuk mengurangi fragmentasi.
 
-2. ext3:
-  - Versi sebelumnya dari ext4
-  - Menambahkan fitur journaling ke ext2
-  - Kompatibel dengan ext2 dan ext4
+2. ext3 (Third Extended File System):
+   Yang merupakan sistem berkas Linux dengan journaling, penerus ext2.
+   Fitur:
+     - Mendukung partisi hingga 16 Terabyte dan file hingga 2 Terabyte.
+     - Memiliki mekanisme journaling untuk meningkatkan keandalan data.
+     - Kompatibel dengan ext2, memudahkan upgrade.
+     - Kurang efisien dibandingkan ext4 dalam hal kinerja dan manajemen ruang.
 
 3. swap:
-  - Bukan sistem file, melainkan ruang pada hard drive yang digunakan sebagai memori virtual
-  - Membantu sistem ketika RAM fisik penuh
+   Swap adalah ruang di disk digunakan sebagai tambahan RAM.
+   Fitur:
+     - Memfungsikan area cadangan untuk RAM, mencegah kehabisan memori.
+     - Dapat membantu sistem tetap stabil ketika memori fisik penuh.
+     - Ukuran swap bisa disesuaikan tergantung kebutuhan sistem.
+     - Kinerja lebih lambat dibandingkan RAM, tetapi lebih baik daripada kehabisan memori.
 
-4. NTFS:
-  - New Technology File System, dikembangkan oleh Microsoft
-  - Digunakan pada sistem operasi Windows modern
-  - Mendukung fitur keamanan, kompresi, dan enkripsi
+4. NTFS (New Technology File System):
+   NTFS adalah sistem berkas Windows modern dengan fitur canggih.
+   Fitur:
+     - Mendukung partisi/file dengan ukuran besar.
+     - Fitur keamanan seperti permissions, enkripsi, dan kompresi.
+     - Menyediakan mekanisme journaling untuk integritas data.
+     - Mendukung pemulihan data dan sistem file yang lebih efisien.
 
-5. FAT32:
-  - File Allocation Table 32-bit
-  - Sistem file lama namun masih kompatibel dengan banyak perangkat
-  - Memiliki batasan ukuran file maksimal 4GB
+5. FAT32 (File Allocation Table 32):
+   FAT32 adalah sistem berkas yang lebih tua dan sederhana, sering digunakan pada perangkat portabel.
+   Fitur:
+     - Mendukung partisi hingga 2 Terabyte dan file hingga 4 Gigabyte.
+     - Kompatibel dengan banyak sistem operasi termasuk Windows, macOS, dan Linux.
+     - Tidak mendukung fitur-fitur canggih seperti journaling atau enkripsi.
+     - Kinerja terbatas pada ukuran file dan partisi besar.
 
-6. Btrfs:
-  - B-tree File System, dikembangkan untuk Linux
-  - Menawarkan fitur canggih seperti snapshots, kompresi, dan RAID
-  - Fokus pada toleransi kesalahan dan kemudahan pengelolaan penyimpanan
-
+6. Btrfs (B-tree File System):
+   Ini adalah istem berkas Linux yang modern dengan fitur-fitur canggih.
+   Fitur:
+     - Mendukung snapshot dan cloning untuk pencadangan dan pemulihan data.
+     - Fitur built-in untuk pengelolaan ruang dan pemeriksaan integritas.
+     - Mendukung ukuran partisi dan file yang sangat besar.
+     - Menyediakan kemampuan pemulihan data dan pengelolaan yang lebih fleksibel.
 </dir>

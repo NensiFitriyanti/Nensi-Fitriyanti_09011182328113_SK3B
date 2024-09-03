@@ -229,7 +229,7 @@ Sistem operasi adalah perangkat lunak utama yang mengatur penggunaan sumber daya
 
 ![nensi 25 2](https://github.com/user-attachments/assets/b1a0642d-a975-4937-801f-3ad7186f111c)
 
-3. Tampilannya akan kembali seperti ini, jika ingan meng-aktifkan kembali klik stard
+3. Tampilannya akan kembali seperti ini, jika ingin meng-aktifkan kembali klik stard
 
 ![nensi 25 3](https://github.com/user-attachments/assets/65c04de4-742c-408a-854a-edddbd0e1bcc)
 
@@ -299,13 +299,13 @@ Menginstal Linux Ubuntu dengan VirtualBox memungkinkan untuk menjalankan Ubuntu 
 
 ## Jawaban
 
-Ada beberapa alasan mengapa saat instalasi perlu dipilih "/" pada opsi mount point:
+Alasan memilih tanda "/" sebagai mount point saat instalasi Linux sangat penting karena:
 
-1. Tanda "/" merupakan direktori root, yang mana merupakan tempat tertinggi dalam struktur sistem file. Jadi, ketika dipilih "/" sebagai mount point, maka sebenarnya kita memasang sistem operasi di direktori root.
-
-2. Pilihan "/" membuat kita bisa mengakses semua file dan folder di System. Misalnya ketika ingin membuka file di Desktop, Jalur lengkapnya adalah "/Desktop". Jadi dengan di pilihnya "/" sebagai mount point, maka semua jalur file dapat diakses dengan mudah.
-
-3. Karena hampir semua distribusi Linux menggunakan "/" sebagai direktori root.
+1. Direktori Root: "/" adalah direktori dasar dari semua file dan folder dalam sistem, memastikan semua elemen sistem berada di lokasi yang tepat.
+2. Struktur Hierarki: Semua direktori dan file dimulai dari "/", sehingga memilihnya menjamin struktur file sistem baru teratur dengan benar.
+3. Manajemen Partisi: "/" mengatur partisi utama untuk sistem operasi dan data penting, membantu dalam pengelolaan ruang penyimpanan.
+3. Standarisasi: Memilih "/" adalah praktik umum dalam distribusi Linux untuk memastikan instalasi dan pengaturan sistem yang konsisten.
+4. Dengan memilih "/", artinya memastikan pengaturan sistem operasi Linux dilakukan dengan benar.
 
 </div>
 
@@ -317,9 +317,9 @@ Ada beberapa alasan mengapa saat instalasi perlu dipilih "/" pada opsi mount poi
 # Soal 3
 
 ## Informasi Mahasiswa
-- Nama: M. Syaiful Karomah
-- NIM: 09011282328111
-- Kelas: SK3C
+- Nama: Nensi Fitriyanti
+- NIM: 09011182328113
+- Kelas: SK3B
 
 <br>
 

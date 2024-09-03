@@ -124,7 +124,7 @@ Sistem operasi adalah perangkat lunak utama yang mengatur penggunaan sumber daya
 
 3. Setelah selesai download ubuntu versi 22.04.4 LTS, buka VirtualBox tampilan awal seperti gambar di bawah ini
 
-Screenshot (188)](https://github.com/user-attachments/assets/05c756f2-9b92-4949-b8e3-5c7e08709dc2)
+![Screenshot (188)](https://github.com/user-attachments/assets/f38dbd3b-6cd1-4269-bb1b-0676de67c51a)
 
 4. Lalu pilih icon New pada bagian atas, pada kolom yang muncul beri nama Linux-Ubuntu
 
@@ -136,7 +136,7 @@ Screenshot (188)](https://github.com/user-attachments/assets/05c756f2-9b92-4949-
 
 ![Screenshot (199)](https://github.com/user-attachments/assets/4bbeecaf-c618-426b-8a21-c9ff22b7bc46)
 
-![Screenshot (201)](https://github.com/user-attachments/assets/56b12407-bf59-4db9-9f98-109a619dc0d8)
+![Screenshot (200)](https://github.com/user-attachments/assets/9cc027f8-9550-4c81-94d0-0399c711267e)
 
 6. Setelah itu, atur base memory dan processors, atur size serta tidak melebihi dari garis hijau > Next
 
@@ -152,7 +152,11 @@ Screenshot (188)](https://github.com/user-attachments/assets/05c756f2-9b92-4949-
 
 9. Selanjutnya klik start dan otomatis akan mendownload tunggu sampai selesai 
 
+![gambar nensi 11](https://github.com/user-attachments/assets/5f12ef98-7929-475a-8761-44a039ebe9ad)
+
 ![nensiii](https://github.com/user-attachments/assets/0de22a75-e56b-4d18-885d-722778fead26)
+
+![nensi 25 1](https://github.com/user-attachments/assets/a3ef43b9-7212-4d82-ab5c-70462240139e)
 
 10. Setelah itu akan muncul tampilan Welcome atur ke Bahasa inggris > Install Ubuntu
 
@@ -194,7 +198,7 @@ Screenshot (188)](https://github.com/user-attachments/assets/05c756f2-9b92-4949-
 
 20. Setelah itu tunggu proses loading Ketika sudah selesai akan tampil username lalu klik > masukkan password yang sudah dibuat tadi > enter di keyboard
 
-![nensi 20](https://github.com/user-attachments/assets/2b2de46e-25b4
+![nensi 20](https://github.com/user-attachments/assets/64d53723-eefc-4c7a-8395-eaa53aaf3ad2)
 
 21. Selesai, jika ada settingan lanjutan bisa di skip atau next hingga done
 
@@ -213,22 +217,21 @@ Screenshot (188)](https://github.com/user-attachments/assets/05c756f2-9b92-4949-
   
 </div>
 
-   ![Langkah 16](https://github.com/SyaifulKaromah/foto-repo/blob/9797ba3bfb71e27f75f3f8eadd4a7099ad99a2bf/selesai.png)
-
-
 <div align="center">
 <br>
 <br>
 
-## Hasil dan Pembahasan
-
-</div>
-
-<div align="justify">
-
 1. Pada pojok kanan terdapat icon battray lalu klik dan muncul menu pilih power of/log out
+
+![nensi 25 1](https://github.com/user-attachments/assets/5219339c-772f-4c90-a9ed-25f596c0c436)
+
 2. Setelah itu pilih power off
+
+![nensi 25 2](https://github.com/user-attachments/assets/b1a0642d-a975-4937-801f-3ad7186f111c)
+
 3. Tampilannya akan kembali seperti ini, jika ingan meng-aktifkan kembali klik stard
+
+![nensi 25 3](https://github.com/user-attachments/assets/65c04de4-742c-408a-854a-edddbd0e1bcc)
 
 </div>
 
@@ -263,10 +266,10 @@ Menginstal Linux Ubuntu dengan VirtualBox memungkinkan untuk menjalankan Ubuntu 
 <div align="justify">
 
 - Praktikum 1	Sistem Operasi Linux
-- Canonical Ltd. (2024). Ubuntu Desktop for developers. https://ubuntu.com/desktop/developers
-- Oracle Corporation. (2024). Oracle VM VirtualBox User Manual. https://www.virtualbox.org/manual/
 - Silberschatz, A., Galvin, P. B., & Gagne, G. (2018). Operating System Concepts (10th ed.). Wiley.
+- Canonical Ltd. (2024). Ubuntu Desktop for developers. https://ubuntu.com/desktop/developers
 - Tanenbaum, A. S., & Bos, H. (2014). Modern Operating Systems (4th ed.). Peason.
+- Oracle Corporation. (2024). Oracle VM VirtualBox User Manual. https://www.virtualbox.org/manual/
 - Ubuntu Documentation Team. (2024). Ubuntu Server Guide. https://ubuntu.com/server/docs
 
 </div>
@@ -279,9 +282,9 @@ Menginstal Linux Ubuntu dengan VirtualBox memungkinkan untuk menjalankan Ubuntu 
 # Soal 2
 
 ## Informasi Mahasiswa
-- Nama: M. Syaiful Karomah
-- NIM: 09011282328111
-- Kelas: SK3C
+- Nama: Nensi Fitriyanti
+- NIM: 09011182328113
+- Kelas: SK3B
 
 <br>
 
@@ -289,7 +292,8 @@ Menginstal Linux Ubuntu dengan VirtualBox memungkinkan untuk menjalankan Ubuntu 
 
 ## Analisislah pada gambar kenapa saat instalasi perlu dipilih "/" pada opsi mount point?
 
-![Mount Point Selection](https://github.com/SyaifulKaromah/foto-repo/blob/e433532cee5da6d4afdc9639eebc9ae06a79300b/Mount.png)
+![tugas 2 nensi](https://github.com/user-attachments/assets/bc477838-b251-47e2-9e21-5930d3dc2d85)
+
 
 <br>
 

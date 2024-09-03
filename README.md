@@ -11,7 +11,7 @@ Sutarno, M.T.\
 Iman Saladin B. Azhar, S. Kom., M. M.SI.\
 Dr. Ahmad Zarkarsi, M. T.
 
-![LOGO UNSRI](https://github.com/user-attachments/assets/dfdba8bf-0b08-4c7c-9cf1-2967730ddc9d)
+<img width="400" alt="LOGO UNSRI" src="https://github.com/user-attachments/assets/dfdba8bf-0b08-4c7c-9cf1-2967730ddc9d">
 
 Disusun Oleh:\
 Nama: Nensi Fitriyanti\
@@ -56,7 +56,7 @@ UNIVERSITAS SRIWIJAYA
 <br>
 <br>
 
-## Pendahuluan
+## PENDAHULUAN
 
 </div>
 
@@ -116,98 +116,98 @@ Sistem operasi adalah perangkat lunak utama yang mengatur penggunaan sumber daya
 
 1. Siapkan VirtualBox untuk menginstal linux, jika belum ada silahkan download terlebih dahulu.
 
-![VirtualBox-Logo](https://github.com/user-attachments/assets/cd8c4862-6d77-42a9-94d8-273d476f2ea4)
+<img width="400" alt="VirtualBox-Logo" src="https://github.com/user-attachments/assets/cd8c4862-6d77-42a9-94d8-273d476f2ea4">
 
 2. Download ubuntu dengan versi sesuai dengan kapasitas laptop, disini kita akan menggunakan linux ubuntu versi 22.04.4 LTS
 
-![Screenshot (187)](https://github.com/user-attachments/assets/0a6382f7-4411-4080-b14f-86afde248819)
+<img width="400" alt="Screenshot (187)" src="https://github.com/user-attachments/assets/0a6382f7-4411-4080-b14f-86afde248819">
 
 3. Setelah selesai download ubuntu versi 22.04.4 LTS, buka VirtualBox tampilan awal seperti gambar di bawah ini
 
-![Screenshot (188)](https://github.com/user-attachments/assets/f38dbd3b-6cd1-4269-bb1b-0676de67c51a)
+<img width="400" alt="Screenshot (188)" src="https://github.com/user-attachments/assets/f38dbd3b-6cd1-4269-bb1b-0676de67c51a">
 
 4. Lalu pilih icon New pada bagian atas, pada kolom yang muncul beri nama Linux-Ubuntu
 
-![Screenshot (197)](https://github.com/user-attachments/assets/d7e3271d-9501-4278-b1cf-be469269c82d)
+<img width="400" alt=" Screenshot (197)" src="https://github.com/user-attachments/assets/d7e3271d-9501-4278-b1cf-be469269c82d">
 
 5. Lalu ganti ISO Image > Other > Ubuntu-22.04.4 > Open  > Next
 
-![Screenshot (198)](https://github.com/user-attachments/assets/1ffdc193-3398-4939-9c3f-23f505df0bc5)
+<img width="400" alt="Screenshot (198)" src="https://github.com/user-attachments/assets/1ffdc193-3398-4939-9c3f-23f505df0bc5">
 
-![Screenshot (199)](https://github.com/user-attachments/assets/4bbeecaf-c618-426b-8a21-c9ff22b7bc46)
+<img width="400" alt="Screenshot (199)" src="https://github.com/user-attachments/assets/4bbeecaf-c618-426b-8a21-c9ff22b7bc46">
 
-![Screenshot (200)](https://github.com/user-attachments/assets/9cc027f8-9550-4c81-94d0-0399c711267e)
+<img width="400" alt="Screenshot (200)" src="https://github.com/user-attachments/assets/9cc027f8-9550-4c81-94d0-0399c711267e">
 
 6. Setelah itu, atur base memory dan processors, atur size serta tidak melebihi dari garis hijau > Next
 
-![Screenshot (202)](https://github.com/user-attachments/assets/636c5697-9c34-4e44-a0fa-9445e30cf856)
+<img width="400" alt="Screenshot (202)" src="https://github.com/user-attachments/assets/636c5697-9c34-4e44-a0fa-9445e30cf856">
 
 7. Lalu atur Virtual Hard disk atur minimal 50GB agar pada saat instal tidak ada masalah > Next > finish
 
-![Screenshot (203)](https://github.com/user-attachments/assets/67b4e860-4a13-4d09-824c-c4951f4c16e8)
+<img width="400" alt="Screenshot (203)" src="https://github.com/user-attachments/assets/67b4e860-4a13-4d09-824c-c4951f4c16e8">
 
 8. Setelah itu, kita atur ubuntunya dengan masuk ke-settings > Display > atur size Video Memory sampai full > OK
 
-![Screenshot (204)](https://github.com/user-attachments/assets/0c3ee8bd-b989-4355-ae87-ba0e422af76d)
+<img width="400" alt="Screenshot (204)" src="https://github.com/user-attachments/assets/0c3ee8bd-b989-4355-ae87-ba0e422af76d">
 
 9. Selanjutnya klik start dan otomatis akan mendownload tunggu sampai selesai 
 
-![gambar nensi 11](https://github.com/user-attachments/assets/5f12ef98-7929-475a-8761-44a039ebe9ad)
+<img width="400" alt="gambar nensi 11" src="https://github.com/user-attachments/assets/5f12ef98-7929-475a-8761-44a039ebe9ad">
 
-![nensiii](https://github.com/user-attachments/assets/0de22a75-e56b-4d18-885d-722778fead26)
+<img width="400" alt="nensiii" src="https://github.com/user-attachments/assets/0de22a75-e56b-4d18-885d-722778fead26">
 
-![nensi 25 1](https://github.com/user-attachments/assets/a3ef43b9-7212-4d82-ab5c-70462240139e)
+<img width="400" alt="nensi 25 1" src="https://github.com/user-attachments/assets/a3ef43b9-7212-4d82-ab5c-70462240139e">
 
 10. Setelah itu akan muncul tampilan Welcome atur ke Bahasa inggris > Install Ubuntu
 
-![ubuntu nensi 10](https://github.com/user-attachments/assets/e85aada0-6ff2-46b6-aa39-d568b6e41441)
+<img width="400" alt="ubuntu nensi 10" src="https://github.com/user-attachments/assets/e85aada0-6ff2-46b6-aa39-d568b6e41441">
 
 11. Lalu akan masuk ke menu Keyboard layout > continu
 
-![ubuntu](https://github.com/user-attachments/assets/a9d0cf39-892e-4e69-a67c-fc93ae706885)
+<img width="400" alt="ubuntu" src="https://github.com/user-attachments/assets/a9d0cf39-892e-4e69-a67c-fc93ae706885">
 
 12. Muncul menu Updates and other software dengan settingan Normal installation > Next
 
-![nensi 12](https://github.com/user-attachments/assets/6391b5e0-f348-4449-bfb6-b53da4556d85)
+<img width="400" alt="nensi 12" src="https://github.com/user-attachments/assets/6391b5e0-f348-4449-bfb6-b53da4556d85">
 
 13. Lalu kita masuk ke menu selanjutnya yaitu installation type pilih Eraser > Install Now
 
-![nensi 13](https://github.com/user-attachments/assets/fe5cf432-4486-45f7-a372-f8d21865715d)
+<img width="400" alt="nensi 13" src="https://github.com/user-attachments/assets/fe5cf432-4486-45f7-a372-f8d21865715d">
 
 14. Selanjutnya akan muncul partisi seperti ini > continu
 
-![nensi 14](https://github.com/user-attachments/assets/24d5b416-bc90-4919-8275-4934d2cb936a)
+<img width="400" alt="nensi 14" src="https://github.com/user-attachments/assets/24d5b416-bc90-4919-8275-4934d2cb936a">
 
 15. Kemudian time zone alokasikan di Indonesia/Jakarta > continu
 
-![nensi 15](https://github.com/user-attachments/assets/ccf0d543-2872-437e-ae90-f317247d3c2c)
+<img width="400" alt="nensi 15" src="https://github.com/user-attachments/assets/ccf0d543-2872-437e-ae90-f317247d3c2c">
 
 16. Masuk ke menu selanjutnya untuk mengatur nama, nama computer,username dan password > continu
 
-![nensi 16](https://github.com/user-attachments/assets/514ce037-3803-42b0-8406-5690bea9d701)
+<img width="400" alt="nensi 16" src="https://github.com/user-attachments/assets/514ce037-3803-42b0-8406-5690bea9d701">
 
 17. Kita tunggu proses install-nya sampai selesai
 
-![nensi 17](https://github.com/user-attachments/assets/068f5a9a-4fff-42a6-986f-8454bb4c3049)
+<img width="400" alt="nensi 17" src="https://github.com/user-attachments/assets/068f5a9a-4fff-42a6-986f-8454bb4c3049">
 
 18. Setelah install selesai klik restart now
 
 19. Jika muncul tulisan (Please remove the installation modium, then press ENTER) maka klik enter pada keyboard
 
-![nensi 19](https://github.com/user-attachments/assets/a32af065-b978-46a1-99f3-a1d1195767d4)
+<img width="400" alt="nensi 19" src="https://github.com/user-attachments/assets/a32af065-b978-46a1-99f3-a1d1195767d4">
 
 20. Setelah itu tunggu proses loading Ketika sudah selesai akan tampil username lalu klik > masukkan password yang sudah dibuat tadi > enter di keyboard
 
-![nensi 20](https://github.com/user-attachments/assets/64d53723-eefc-4c7a-8395-eaa53aaf3ad2)
+<img width="400" alt="nensi 20" src="https://github.com/user-attachments/assets/64d53723-eefc-4c7a-8395-eaa53aaf3ad2">
 
 21. Selesai, jika ada settingan lanjutan bisa di skip atau next hingga done
 
-![nensi 21](https://github.com/user-attachments/assets/a86fbfbd-2742-4683-8d2d-e4041e6bf342)
+<img width="400" alt="nensi 21" src="https://github.com/user-attachments/assets/a86fbfbd-2742-4683-8d2d-e4041e6bf342">
 -4447-a6ca-d713ddfb85ae)
 
 22. Finish tampilannya seperti pada gambar di bawah
 
-![nensi 22](https://github.com/user-attachments/assets/8682c403-53fc-4bdf-8986-cd62fd5095cb)
+<img width="400" alt="nensi 22" src="https://github.com/user-attachments/assets/8682c403-53fc-4bdf-8986-cd62fd5095cb">
 
 </div>
 
@@ -348,7 +348,7 @@ Alasan memilih tanda "/" sebagai mount point saat instalasi Linux sangat penting
      - Kurang efisien dibandingkan ext4 dalam hal kinerja dan manajemen ruang.
 
 3. swap:
-   Swap adalah ruang di disk digunakan sebagai tambahan RAM.
+   swap adalah ruang di disk digunakan sebagai tambahan RAM.
    Fitur:
      - Memfungsikan area cadangan untuk RAM, mencegah kehabisan memori.
      - Dapat membantu sistem tetap stabil ketika memori fisik penuh.
@@ -372,7 +372,7 @@ Alasan memilih tanda "/" sebagai mount point saat instalasi Linux sangat penting
      - Kinerja terbatas pada ukuran file dan partisi besar.
 
 6. Btrfs (B-tree File System):
-   Ini adalah istem berkas Linux yang modern dengan fitur-fitur canggih.
+   ini adalah istem berkas Linux yang modern dengan fitur-fitur canggih.
    Fitur:
      - Mendukung snapshot dan cloning untuk pencadangan dan pemulihan data.
      - Fitur built-in untuk pengelolaan ruang dan pemeriksaan integritas.

@@ -25,7 +25,7 @@ UNIVERSITAS SRIWIJAYA
 <br>
 <br>
 
-## Daftar Isi
+## DAFTAR ISI
 
 </div>
 
@@ -184,7 +184,7 @@ Sistem operasi adalah perangkat lunak utama yang mengatur penggunaan sumber daya
 
 16. Masuk ke menu selanjutnya untuk mengatur nama, nama computer,username dan password > continu
 
-<img width="400" alt="nensi 16" src="https://github.com/user-attachments/assets/514ce037-3803-42b0-8406-5690bea9d701">
+<img width="400" alt="ware are you nensi" src="https://github.com/user-attachments/assets/bb86dfd1-1a94-4c2f-a485-0e0a02efd4ce">
 
 17. Kita tunggu proses install-nya sampai selesai
 
@@ -198,7 +198,7 @@ Sistem operasi adalah perangkat lunak utama yang mengatur penggunaan sumber daya
 
 20. Setelah itu tunggu proses loading Ketika sudah selesai akan tampil username lalu klik > masukkan password yang sudah dibuat tadi > enter di keyboard
 
-<img width="400" alt="nensi 20" src="https://github.com/user-attachments/assets/64d53723-eefc-4c7a-8395-eaa53aaf3ad2">
+<img width="400" alt="user name nensi" src="https://github.com/user-attachments/assets/96ab9327-3f6c-4a40-9f7f-bc6456ff9a86">
 
 21. Selesai, jika ada settingan lanjutan bisa di skip atau next hingga done
 
@@ -266,9 +266,10 @@ Menginstal Linux Ubuntu dengan VirtualBox memungkinkan untuk menjalankan Ubuntu 
 <div align="justify">
 
 - Praktikum 1	Sistem Operasi Linux
-- Silberschatz, A., Galvin, P. B., & Gagne, G. (2018). Operating System Concepts (10th ed.). Wiley.
+- Muzaki Nur Rahman, Instalasi Linux Ubuntu. https://mytutorialinstalasilinux.blogspot.com/2016/12/makalah-instalasi-linux-ubuntu.html
 - Canonical Ltd. (2024). Ubuntu Desktop for developers. https://ubuntu.com/desktop/developers
-- Tanenbaum, A. S., & Bos, H. (2014). Modern Operating Systems (4th ed.). Peason.
+- Hostinger, Ubuntu, 2023. https://www.hostinger.co.id/tutorial/cara-install-ubuntu
+- Marcel Prastiko Arthana, 2019. https://id.scribd.com/document/453381733/MAKALAH-LINUX-UBUNTU-docx
 - Oracle Corporation. (2024). Oracle VM VirtualBox User Manual. https://www.virtualbox.org/manual/
 - Ubuntu Documentation Team. (2024). Ubuntu Server Guide. https://ubuntu.com/server/docs
 

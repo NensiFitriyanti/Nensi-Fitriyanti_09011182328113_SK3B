@@ -235,15 +235,15 @@ Sistem operasi adalah perangkat lunak utama yang mengatur penggunaan sumber daya
 
 </div>
 
-<div align="justify">
-
-### PENUTUP
-
-</div>
-
 <div align="center">
 <br>
 <br>
+
+## PENUTUP
+
+</div>
+
+<div align="justify">
 
 ## Kesimpulan
 
@@ -340,7 +340,7 @@ Alasan memilih tanda "/" sebagai mount point saat instalasi Linux sangat penting
      - Mendukung extents untuk mengurangi fragmentasi.
 
 2. ext3 (Third Extended File System):
-   Yang merupakan sistem berkas Linux dengan journaling, penerus ext2.
+   ext3 merupakan sistem berkas Linux dengan journaling, penerus ext2.
    Fitur:
      - Mendukung partisi hingga 16 Terabyte dan file hingga 2 Terabyte.
      - Memiliki mekanisme journaling untuk meningkatkan keandalan data.

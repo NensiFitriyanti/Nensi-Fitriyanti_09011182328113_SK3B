@@ -11,7 +11,7 @@ Sutarno, M.T.\
 Iman Saladin B. Azhar, S. Kom., M. M.SI.\
 Dr. Ahmad Zarkarsi, M. T.
 
-logo
+![LOGO UNSRI](https://github.com/user-attachments/assets/dfdba8bf-0b08-4c7c-9cf1-2967730ddc9d)
 
 Disusun Oleh:\
 Nama: Nensi Fitriyanti\
